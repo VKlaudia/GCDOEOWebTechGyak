@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="hu">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  body{width:650px;
+       border: 1px #666666 solid;
+	   margin:10px;
+	   padding: 20px;
+	   position: relative;}
+ div{margin-bottom: 20px;}
+ </body>
+</html>
